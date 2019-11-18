@@ -146,6 +146,7 @@
             <TextBlock FontSize="16" Text="Контакты для связи: metanit22@mail.ru" Margin="210 0 0 0"/>
             <TextBlock FontSize="20" Text="Copyright © metanit.com, 2012-2019. Все права защищены." Margin="90 0 0 0"/>
         </StackPanel>
-        
+
+        <StackPanel/>
     </Grid>
 </Window>
